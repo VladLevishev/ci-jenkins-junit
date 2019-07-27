@@ -1,4 +1,5 @@
-package java.com.example.math;
+
+package com.example.math;
 
 import static org.junit.Assert.*;
 import org.junit.Test;

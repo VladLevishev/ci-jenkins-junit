@@ -1,4 +1,4 @@
-package java.com.example.math;
+package com.example.math;
 
 public class Calculator {
 
